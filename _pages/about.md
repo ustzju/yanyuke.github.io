@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed my Ph.D. in Civil Engineering at the Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Tim K.T. Tse](https://civil.ust.hk/). I am a recipient of the Hong Kong PhD Fellowship. I am available to start a postdoctoral position immediately.
+I recently completed my Ph.D. in Civil Engineering at the Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Tim K.T. Tse](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-tse-timkttse). I am a recipient of the [Hong Kong PhD Fellowship](https://awards.ugc.edu.hk/award/hong-kong-phd-fellowship-scheme?page=13&year=2022). I am seeking for postdoctoral position.  
 
 Research
 ======
