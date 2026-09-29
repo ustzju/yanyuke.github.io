@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed my Ph.D. in Civil Engineering at the Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Tim K.T. Tse](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-tse-timkttse). I am a recipient of the [Hong Kong PhD Fellowship](https://awards.ugc.edu.hk/award/hong-kong-phd-fellowship-scheme?page=13&year=2022). I am seeking for postdoctoral position.  
+I recently completed my Ph.D. in Civil Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Tim K.T. Tse](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-tse-timkttse). I am a recipient of the [Hong Kong PhD Fellowship](https://awards.ugc.edu.hk/award/hong-kong-phd-fellowship-scheme?page=13&year=2022). I am seeking a postdoctoral position.
 
 Research
 ======
@@ -19,8 +19,8 @@ My research develops **neural operators and scientific machine learning** for fl
 
 Education
 ======
-- **Ph.D.**, Civil Engineering, HKUST, 2022 – 2026
-- **M.Eng.**, Structural Engineering, Zhejiang University, 2019 – 2022
-- **B.Eng.**, Civil Engineering, Zhejiang University, 2015 – 2019
+- **Ph.D.**, Civil Engineering, [HKUST](https://hkust.edu.hk/), 2022 – 2026
+- **M.Eng.**, Structural Engineering, [Zhejiang University](https://www.zju.edu.cn/english/), 2019 – 2022
+- **B.Eng.**, Civil Engineering, [Zhejiang University](https://www.zju.edu.cn/english/), 2015 – 2019
 
 See [Publications]({{ site.baseurl }}/publications/) and the [CV]({{ site.baseurl }}/cv/) for more.
