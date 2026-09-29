@@ -12,11 +12,10 @@ redirect_from:
 Education
 ======
 * **Ph.D.** in Civil Engineering, [Hong Kong University of Science and Technology](https://hkust.edu.hk/), 2022 – 2026 (Hong Kong PhD Fellowship Scheme)
-  * GPA: 4.00/4.30; Supervisor: Prof. Tim K.T. Tse
+  * Supervisor: Prof. Tim K.T. Tse
 * **M.Eng.** in Structural Engineering, [Zhejiang University](https://www.zju.edu.cn/english/), 2019 – 2022
-  * GPA: 87.46/100; Supervisor: Prof. Xie Jiming
+  * Supervisor: Prof. Xie Jiming
 * **B.Eng.** in Civil Engineering, [Zhejiang University](https://www.zju.edu.cn/english/), 2015 – 2019
-  * GPA: 3.86/4.00
 
 Publications
 ======

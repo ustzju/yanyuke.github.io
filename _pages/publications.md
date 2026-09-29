@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Ke Y** denotes Yanyu Ke.
-
 Journal Articles
 ======
 
