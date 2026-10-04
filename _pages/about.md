@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed my Ph.D. in Civil Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Tim K.T. Tse](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-tse-timkttse). I am a recipient of the [Hong Kong PhD Fellowship](https://awards.ugc.edu.hk/award/hong-kong-phd-fellowship-scheme?page=13&year=2022). I am seeking a postdoctoral position.
+I recently completed my Ph.D. in Civil Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Tim K.T. Tse](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-tse-timkttse). I am a recipient of the [Hong Kong PhD Fellowship](https://awards.ugc.edu.hk/award/hong-kong-phd-fellowship-scheme?page=13&year=2022). Before starting my PhD, I received my B.Eng and M.Eng from [Zhejiang University](https://www.zju.edu.cn/english/).
 
 Research
 ======
 My research develops **neural operators and scientific machine learning** for fluid problems, with a focus on wind engineering and the built environment. I am interested in models that are efficient, physically interpretable, and able to combine data of different fidelity.
 
-- **Neural operators for fluid flow.** POD-FNO for temporal modeling of unsteady flows; GFNO and a graph-encoded FNO for reconstructing wind and velocity fields from sparse observations or surface pressure.
+- **Neural operators for fluid flow.** POD-FNO for temporal modeling of unsteady flows; GFNO and a graph-encoded FNO for reconstructing wind velocity fields from sparse observations or surface pressure.
 - **Explainable and efficient learning.** Interpretable machine learning for bluff-body aerodynamics, transfer learning across configurations, and multi-fidelity graph neural operators with uncertainty quantification for heterogeneous wind pressure data.
 - **Wind engineering.** Wind-induced responses of high-rise buildings, including aerodynamic shape modifications.
 
