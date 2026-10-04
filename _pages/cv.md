@@ -23,14 +23,14 @@ See the [Publications]({{ site.baseurl }}/publications/) page.
 
 Honors
 ======
-* 2022, Hong Kong PhD Fellowship Award, HKUST
+* 2022, Hong Kong PhD Fellowship Award
 * 2019, Outstanding Graduate, Zhejiang University
 * 2019, Top Ten Outstanding College Students Nomination Award, Zhejiang University
 * 2019, 1st Class Scholarship for Excellence in Research and Innovation, Zhejiang University
 
 Competitions
 ======
-* 2025, Bronze Medal, Global AI Challenge for Building E&M Facilities (HKUST)
+* 2025, Bronze Medal, Global AI Challenge for Building E&M Facilities
 * 2019, 2nd Place (Runner-up), Mid-Pacific Sustainable Solutions Competition, ASCE
 * 2018, Champion, Structure Design Contest, Zhejiang University
 
