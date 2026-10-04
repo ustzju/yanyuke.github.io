@@ -28,7 +28,7 @@ Job Seeking
 I am looking for postdoctoral and research positions in the following directions:
 
 - **AI and mathematics:** foundation models, transfer learning, AI for PDEs (neural operators), uncertainty quantification.
-- **Fluid mechanics:** sparse-data reconstruction, turbulence prediction, long-term forecasting, multi-fidelity data fusion.
+- **Fluid and solid mechanics:** turbulence prediction, long-term unsteady flow forecasting, sparse-data reconstruction, multi-fidelity data fusion, neural operator surrogates for stress and deformation fields.
 - **Urban wind environment and wind-resistant design of buildings:** numerical simulation and wind tunnel testing.
 
 Recommendations from interested faculty and colleagues are very welcome, as are discussions and collaborations.
