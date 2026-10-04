@@ -5,7 +5,7 @@ permalink: /teaching/civl2120/
 author_profile: true
 ---
 
-**Terms taught:** Spring 2023, Spring 2024, Spring 2025, Spring 2026
+**Terms as teaching assistant:** Spring 2023, Spring 2024, Spring 2025, Spring 2026
 
 [← Back to Teaching]({{ site.baseurl }}/teaching/)
 

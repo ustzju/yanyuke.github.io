@@ -5,7 +5,7 @@ permalink: /teaching/civl4330/
 author_profile: true
 ---
 
-**Terms taught:** Fall 2023, Fall 2024
+**Terms as teaching assistant:** Fall 2023, Fall 2024
 
 [← Back to Teaching]({{ site.baseurl }}/teaching/)
 

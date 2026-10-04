@@ -5,7 +5,7 @@ permalink: /teaching/ciem5311/
 author_profile: true
 ---
 
-**Term taught:** Fall 2025
+**Terms as teaching assistant:** Fall 2025
 
 [← Back to Teaching]({{ site.baseurl }}/teaching/)
 

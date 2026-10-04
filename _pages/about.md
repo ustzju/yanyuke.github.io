@@ -23,4 +23,16 @@ Education
 - **M.Eng.**, Structural Engineering, [Zhejiang University](https://www.zju.edu.cn/english/), 2019 – 2022
 - **B.Eng.**, Civil Engineering, [Zhejiang University](https://www.zju.edu.cn/english/), 2015 – 2019
 
+Job Seeking
+======
+I am looking for postdoctoral and research positions in the following directions:
+
+- **AI and mathematics:** foundation models, transfer learning, AI for PDEs (neural operators), uncertainty quantification.
+- **Fluid mechanics:** sparse-data reconstruction, turbulence prediction, long-term forecasting, multi-fidelity data fusion.
+- **Urban wind environment and wind-resistant design of buildings:** numerical simulation and wind tunnel testing.
+
+Recommendations from interested faculty and colleagues are very welcome, as are discussions and collaborations.
+
+Feel free to reach out: [ykeag@connect.ust.hk](mailto:ykeag@connect.ust.hk)
+
 See [Publications]({{ site.baseurl }}/publications/) and the [CV]({{ site.baseurl }}/cv/) for more.
