@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * **Ph.D.** in Civil Engineering, [Hong Kong University of Science and Technology](https://hkust.edu.hk/), 2022 – 2026 (Hong Kong PhD Fellowship Scheme)
-  * Supervisor: Prof. Tim K.T. Tse
+  * Supervisor: Prof. Tim K.T. Tse, Prof. Hu Gang
 * **M.Eng.** in Structural Engineering, [Zhejiang University](https://www.zju.edu.cn/english/), 2019 – 2022
-  * Supervisor: Prof. Xie Jiming
+  * Supervisor: Prof. Xie Jiming, Prof. Shen Guohui
 * **B.Eng.** in Civil Engineering, [Zhejiang University](https://www.zju.edu.cn/english/), 2015 – 2019
 
 Publications
